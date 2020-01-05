@@ -1,0 +1,33 @@
+.margin_Nav {
+  margin: 0 8px;
+}
+
+.logo_img {
+  width: 100px;
+}
+.www {
+  height: 100vh;
+  width: auto;
+  background-color: aqua;
+}
+
+nav h1 {
+  font-family: "Tinos", serif;
+  color: white;
+}
+
+.xx {
+  height: 30vh;
+  width: 50px;
+}
+
+.btnCaroulsel {
+  position: absolute;
+  z-index: 998;
+  top: 70%;
+  left: 12.5%;
+}
+
+.iii {
+  z-index: 999;
+}
